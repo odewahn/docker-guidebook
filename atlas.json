@@ -3,6 +3,6 @@
     "docker-guidebook.asciidoc"
   ],
   "formats": {},
-  "theme": "oreillymedia/atlas_tech1c_theme",
+  "theme": "oreillymedia/animal_theme",
   "title": "docker guidebook"
 }
