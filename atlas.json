@@ -1,0 +1,8 @@
+{
+  "files": [
+    "docker-guidebook.asciidoc"
+  ],
+  "formats": {},
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "docker guidebook"
+}
