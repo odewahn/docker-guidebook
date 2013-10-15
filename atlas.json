@@ -1,6 +1,6 @@
 {
   "files": [
-    "docker-guidebook.asciidoc"
+    "docker-guidebook.md"
   ],
   "formats": {},
   "theme": "oreillymedia/atlas_tech1c_theme",
